@@ -1,6 +1,5 @@
 void main(){
 
-
   //with temp value
   String char = "LEVEL";
   String temp  = "";
@@ -13,6 +12,5 @@ void main(){
   }else {
     print("NO");
   }
-
 
 }
